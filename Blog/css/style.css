@@ -370,6 +370,7 @@ header .header i {
   flex-direction: column;
   width: 360px;
   height: 400px;
+  margin-bottom: 300px;
 }
 
 .content-cards_section .content-cards_for img {
@@ -393,6 +394,7 @@ header .header i {
     width: 80%;
     height: 35%;
     margin: 0 10px;
+    margin-bottom: 40px;
   }
 
   .content-cards_section .content-cards_for img {
